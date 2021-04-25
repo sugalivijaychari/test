@@ -1,8 +1,12 @@
 This is my test file.
 My new testing line.
+<<<<<<< HEAD
 This will advance the main branch and fixed the bug.
 This will advance the main branch.
 This is the line from my feature branch.
 This is another line from feature branch.
 This is a line added from the bug fix branch.
 This is made on the feature branch.
+=======
+Updated the new line.
+>>>>>>> Advancing our new branch
