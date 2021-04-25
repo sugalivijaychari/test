@@ -1,3 +1,6 @@
 This is my test file.
 My new testing line.
 This will advance the main branch and fixed the bug.
+This will advance the main branch.
+This is the line from my feature branch.
+This is another line from feature branch.
